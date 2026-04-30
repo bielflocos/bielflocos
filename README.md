@@ -1,8 +1,9 @@
 <div align="center">
-  <!-- Substitua o link abaixo pelo link real da imagem do seu logo hospedado no GitHub -->
-  <img src="Heisus Code.png" alt="Heisus Code Logo" height="80"/>
-  
-  <h1>Olá, eu sou Gabriel de Jesus Santos 👋</h1>
+  <!-- A imagem Heisus Code.png deve estar na mesma pasta do seu README no GitHub -->
+  <img src="Heisus Code.png" alt="Heisus Code Logo" height="100"/>
+  <br><br>
+
+  <h1>GABRIEL DE JESUS SANTOS</h1>
 
   <p>
     <strong>Estudante da Escola do Futuro de Goiás | Fundador da heisuscode</strong><br>
@@ -10,16 +11,16 @@
   </p>
 
   <p>
-    <a href="#-sobre-mim">Sobre</a> •
-    <a href="#-tecnologias-e-ferramentas">Tecnologias</a> •
-    <a href="#-projetos-em-destaque">Projetos</a> •
-    <a href="#-contato">Contato</a>
+    <a href="#-sobre-mim">🏠 Sobre</a> •
+    <a href="#-tecnologias-e-ferramentas">⚙️ Tecnologias</a> •
+    <a href="#-projetos-em-destaque">📂 Projetos</a> •
+    <a href="#-vamos-conversar">✉️ Contato</a>
   </p>
 </div>
 
 <br>
 
-## 🚀 Sobre mim
+## 👨‍💻 Sobre mim
 
 Sou participante do programa **Jornada para o Futuro**, cursando **Desenvolvimento Web e Cibersegurança**. Através da minha empresa, a **heisuscode**, busco desenvolver sistemas inteligentes e soluções práticas que impactam diretamente o dia a dia das pessoas e otimizam processos reais.
 
@@ -29,33 +30,42 @@ Sou participante do programa **Jornada para o Futuro**, cursando **Desenvolvimen
 
 ## 🛠️ Tecnologias e Ferramentas
 
-Para manter um padrão visual moderno e limpo, utilizo as seguintes tecnologias no meu dia a dia de desenvolvimento:
-
+<br>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,html,css,js,sqlite,azure,git,github" alt="Tecnologias que utilizo" />
+    <!-- Ícones centralizados e limitados a 5 por linha para manter o bloco bonito -->
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,html,css,js,sqlite,azure,git,github&perline=5" alt="Tecnologias que utilizo" />
   </a>
 </div>
-
 <br>
 
 ---
 
-## 📌 Projetos em destaque
+## 🚀 Projetos em destaque
 
-| 📺 Mídia Indoor | 🏥 Sentinela (SIGH) |
-| :--- | :--- |
-| **Sistema de Comunicação Digital** | **Sistema Hospitalar Inteligente** |
-| Solução moderna e sustentável para ambientes, focada em substituir cartazes físicos por painéis dinâmicos e automatizados, otimizando o fluxo de informação. | Plataforma voltada para a área da saúde com foco em organização de dados clínicos, automação de processos de triagem e prevenção de erros médicos. |
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h3>📺 Mídia Indoor</h3>
+      <p><strong>Sistema de Comunicação Digital</strong></p>
+      <p align="left">Solução moderna e sustentável para ambientes, focada em substituir cartazes físicos por painéis dinâmicos e automatizados, otimizando o fluxo de informação.</p>
+    </td>
+    <td width="50%" align="center">
+      <h3>🏥 Sentinela (SIGH)</h3>
+      <p><strong>Sistema Hospitalar Inteligente</strong></p>
+      <p align="left">Plataforma voltada para a área da saúde com foco em organização de dados clínicos, automação de processos de triagem e prevenção de erros médicos.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📚 Atualmente Estudando & Diferenciais
+## 📚 Estudando & ⭐ Diferenciais
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%">
-      <h3>Foco de Estudos</h3>
+      <strong>Foco de Estudos:</strong>
       <ul>
         <li>Desenvolvimento Web (Frontend e Backend)</li>
         <li>Node.js e arquitetura de sistemas</li>
@@ -65,7 +75,7 @@ Para manter um padrão visual moderno e limpo, utilizo as seguintes tecnologias 
       </ul>
     </td>
     <td width="50%">
-      <h3>Meus Diferenciais</h3>
+      <strong>Meus Diferenciais:</strong>
       <ul>
         <li>Rápida adaptação a novas tecnologias</li>
         <li>Foco total em <strong>projetos reais</strong></li>
@@ -88,11 +98,11 @@ Para manter um padrão visual moderno e limpo, utilizo as seguintes tecnologias 
 
 ---
 
-## 📫 Vamos conversar?
-
-Seja para oportunidades de estágio, networking ou para falar sobre a **heisuscode**, sinta-se à vontade para entrar em contato:
+## ✉️ Vamos conversar?
 
 <div align="center">
+  <p>Seja para oportunidades de estágio, networking ou para falar sobre a <strong>heisuscode</strong>, entre em contato:</p>
+  <br>
   <a href="mailto:gabrielfolks.x@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
