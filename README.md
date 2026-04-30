@@ -1,8 +1,4 @@
 <div align="center">
-  <!-- A imagem Heisus Code.png deve estar na mesma pasta do seu README no GitHub -->
-  <img src="Heisus Code.png" alt="Heisus Code Logo" height="100"/>
-  <br><br>
-
   <h1>GABRIEL DE JESUS SANTOS</h1>
 
   <p>
@@ -16,6 +12,11 @@
     <a href="#-projetos-em-destaque">📂 Projetos</a> •
     <a href="#-vamos-conversar">✉️ Contato</a>
   </p>
+
+  <br>
+  <!-- Logo posicionado mais pro meio do layout inicial -->
+  <img src="Heisus Code.png" alt="Heisus Code Logo" height="110"/>
+  <br>
 </div>
 
 <br>
@@ -33,7 +34,6 @@ Sou participante do programa **Jornada para o Futuro**, cursando **Desenvolvimen
 <br>
 <div align="center">
   <a href="https://skillicons.dev">
-    <!-- Ícones centralizados e limitados a 5 por linha para manter o bloco bonito -->
     <img src="https://skillicons.dev/icons?i=ts,nodejs,html,css,js,sqlite,azure,git,github&perline=5" alt="Tecnologias que utilizo" />
   </a>
 </div>
