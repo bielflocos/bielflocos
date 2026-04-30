@@ -14,7 +14,6 @@
   </p>
 
   <br>
-  <!-- Logo posicionado mais pro meio do layout inicial -->
   <img src="Heisus Code.png" alt="Heisus Code Logo" height="110"/>
   <br>
 </div>
@@ -27,7 +26,7 @@ Sou participante do programa **Jornada para o Futuro**, cursando **Desenvolvimen
 
 **Meu Objetivo:** Busco minha primeira oportunidade na área de tecnologia como jovem aprendiz ou estagiário, com foco em desenvolvimento de sistemas, engenharia de prompts e evolução prática constante.
 
----
+<br>
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -39,7 +38,7 @@ Sou participante do programa **Jornada para o Futuro**, cursando **Desenvolvimen
 </div>
 <br>
 
----
+<br>
 
 ## 🚀 Projetos em destaque
 
@@ -58,7 +57,7 @@ Sou participante do programa **Jornada para o Futuro**, cursando **Desenvolvimen
   </tr>
 </table>
 
----
+<br>
 
 ## 📚 Estudando & ⭐ Diferenciais
 
@@ -87,7 +86,7 @@ Sou participante do programa **Jornada para o Futuro**, cursando **Desenvolvimen
   </tr>
 </table>
 
----
+<br>
 
 ## 📊 Estatísticas do GitHub
 
@@ -96,7 +95,7 @@ Sou participante do programa **Jornada para o Futuro**, cursando **Desenvolvimen
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielflocos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Linguagens mais usadas" />
 </div>
 
----
+<br>
 
 ## ✉️ Vamos conversar?
 
