@@ -52,7 +52,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 <br>
 
-[<img align="left" height="94px" alt="DIO" src="https://raw.githubusercontent.com/digitalinnovationone/assets/master/logo/logo-dio-white.png"/>](https://www.dio.me/)
+[<img align="left" height="94px" alt="DIO" src="DIO.png"/>](https://www.dio.me/)
 **Bootcamp** <br>
 [**DIO**](https://www.dio.me/) • Formação <br>
 Linguagens & Tecnologias: `TypeScript`, `Node.js`, `JavaScript`, `Inteligência Artificial`<br>
