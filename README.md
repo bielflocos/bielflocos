@@ -52,29 +52,12 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 <br>
 
-[<img align="left" height="94px" width="94px" alt="SpaceX" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
-
-**Software Engineer** <br>
-[**SpaceX**](https://www.spacex.com/) • Full-time <br>
-Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`<br>
-Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
-<br><br><br>
-
-[<img align="left" height="94px" width="94px" alt="DIO" src="https://avatars.githubusercontent.com/u/49250438?v=4"/>](https://www.dio.me/)
-
 **Bootcamp** <br>
 [**DIO**](https://www.dio.me/) • Formação <br>
 Linguagens & Tecnologias: `TypeScript`, `Node.js`, `JavaScript`, `Inteligência Artificial`<br>
 Projetos em destaque: [Bootcamp]()
 <br><br><br>
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
-
-**Software Engineer** <br>
-[**Nubank**](https://nubank.com.br/) • Contract <br>
-Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` <br>
-Projetos em destaque: [App](https://nubank.com.br/)
-<br><br><br>
 
 ## 📊 Estatísticas do GitHub
 
