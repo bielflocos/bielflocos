@@ -75,7 +75,7 @@ Local: [Inglaterra]()
 **Técnico em Desenvolvimento Web e Cibersegurança** <br>
 [**Escola do Futuro de Goiás**](#) • Cursando <br>
 Linguagens & Tecnologias: `Desenvolvimento Web`, `Cibersegurança`, `Lógica de Programação`<br>
-Projetos em destaque: [Jornada para o Futuro]()
+Projetos em destaque: [Projeto Setninela]()
 <br><br><br>
 
 [<img align="left" height="94px" alt="DIO" src="DIO.png"/>](https://www.dio.me/)
