@@ -54,7 +54,7 @@ Na visão geral abaixo você encontrará minha trajetória mais recente:
 
 <br>
 
-[<img align="left" height="94px" alt="Inglaterra" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1e7.png"/>](#)
+[<img align="left" height="94px" alt="Intercâmbio na Inglaterra" src="Inglaterra.png"/>](#)
 **Intercâmbio Internacional** <br>
 [**Universidade de Cambridge ou Oxford**](#) • Previsto para Julho <br>
 Foco: `Imersão Acadêmica`, `Visão Global`, `Inglês`, `Tecnologia`<br>
