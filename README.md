@@ -5,10 +5,6 @@
     <strong>Estudante da Escola do Futuro de Goiás | Fundador da heisuscode</strong><br>
     <em>Construindo sistemas que resolvem problemas reais através da tecnologia.</em>
   </p>
-
-  <br>
-  <img src="Heisus Code.png" alt="Heisus Code Logo" height="110"/>
-  <br>
 </div>
 
 <br>
