@@ -12,7 +12,7 @@
 
 <img align="right" src="A.png" alt="Ilustração do Setup" width="420"/>
 
-### 👨‍💻 Sobre mim
+### 👨‍💻 About
 
 Olá! Meu nome é Gabriel de Jesus Santos. Sou participante do programa **Jornada para o Futuro**, cursando Desenvolvimento Web e Cibersegurança, e fundador da **heisuscode**. Em julho, realizarei um intercâmbio acadêmico na Inglaterra (Cambridge/Oxford) e atualmente busco minha primeira oportunidade na área de tecnologia.
 
@@ -79,7 +79,7 @@ Linguagens & Tecnologias: `TypeScript`, `Node.js`, `JavaScript`, `Inteligência 
 Projetos em destaque: [Bootcamp]()
 <br><br><br>
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Statistics
 
 <div align="center">
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=bielflocos&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
