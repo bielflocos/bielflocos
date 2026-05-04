@@ -30,9 +30,7 @@ Sou participante do programa **Jornada para o Futuro**, cursando **Desenvolvimen
 
 ## 🔗 My Stack
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,cs,angular,ts,nodejs,react,next,tailwind,aws,git,github,postgres&perline=15" alt="My Stack" />
-</a>
+<img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,nodejs,react,next,tailwind,aws,git,github,obsidian,sqlite,raspberrypi,linux,azure,ps,npm&perline=15" alt="My Stack" />
 
 <br>
 
@@ -97,15 +95,9 @@ Sou participante do programa **Jornada para o Futuro**, cursando **Desenvolvimen
 
 <br>
 
-<a href="mailto:gabrielfolks.x@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/gabrielἰησοῦς/">
-  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://wa.me/5561995686131">
-  <img src="https://img.shields.io/badge/WHATSAPP-000000?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-</a>
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/WHATSAPP-000000?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 
 <br><br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Linha colorida" width="100%" />
