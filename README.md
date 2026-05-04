@@ -46,7 +46,7 @@ Sou participante do programa **Jornada para o Futuro**, cursando **Desenvolvimen
 
 <br>
 
-## 💼 Experiência de trabalho
+## 💼 Experiências
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
