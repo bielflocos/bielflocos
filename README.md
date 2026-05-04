@@ -103,8 +103,8 @@ Sou participante do programa **Jornada para o Futuro**, cursando **Desenvolvimen
 <a href="https://www.linkedin.com/in/gabrielἰησοῦς/">
   <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://youtube.com/">
-  <img src="https://img.shields.io/badge/YOUTUBE-000000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+<a href="https://wa.me/5561995686131">
+  <img src="https://img.shields.io/badge/WHATSAPP-000000?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
 
 <br><br>
