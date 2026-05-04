@@ -13,7 +13,7 @@
 
 <br>
 
-## 👨‍💻 About me
+## 👨‍💻 Sobre mim
 
 Sou participante do programa **Jornada para o Futuro**, cursando **Desenvolvimento Web e Cibersegurança**. Através da minha empresa, a **heisuscode**, busco desenvolver sistemas inteligentes e soluções práticas que impactam diretamente o dia a dia das pessoas e otimizam processos reais.
 
@@ -27,7 +27,7 @@ Sou participante do programa **Jornada para o Futuro**, cursando **Desenvolvimen
 
 <br>
 
-## 🚀 Projects developed
+## 🚀 Projects Developed
 
 <table width="100%">
   <tr>
@@ -46,34 +46,35 @@ Sou participante do programa **Jornada para o Futuro**, cursando **Desenvolvimen
 
 <br>
 
-## 📚 Estudando & ⭐ Diferenciais
+## 💼 Experiência de trabalho
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <strong>Foco de Estudos:</strong>
-      <ul>
-        <li>Desenvolvimento Web (Frontend e Backend)</li>
-        <li>Node.js e arquitetura de sistemas</li>
-        <li>Bancos de dados (SQLite3 / SQL)</li>
-        <li>Cibersegurança</li>
-        <li>Engenharia de prompts e IA aplicada</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <strong>Meus Diferenciais:</strong>
-      <ul>
-        <li>Rápida adaptação a novas tecnologias</li>
-        <li>Foco total em <strong>projetos reais</strong></li>
-        <li>Pensamento analítico voltado para soluções</li>
-        <li>Uso estratégico de IA no desenvolvimento</li>
-        <li>Automação e eficiência de código</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 <br>
+
+[<img align="left" height="94px" width="94px" alt="SpaceX" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+
+**Software Engineer** <br>
+[**SpaceX**](https://www.spacex.com/) • Full-time <br>
+Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`<br>
+Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+<br><br><br>
+
+[<img align="left" height="94px" width="94px" alt="DIO" src="https://avatars.githubusercontent.com/u/49250438?v=4"/>](https://www.dio.me/)
+
+**Bootcamp** <br>
+[**DIO**](https://www.dio.me/) • Formação <br>
+Linguagens & Tecnologias: `TypeScript`, `Node.js`, `JavaScript`, `Inteligência Artificial`<br>
+Projetos em destaque: [Bootcamp]()
+<br><br><br>
+
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
+
+**Software Engineer** <br>
+[**Nubank**](https://nubank.com.br/) • Contract <br>
+Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` <br>
+Projetos em destaque: [App](https://nubank.com.br/)
+<br><br><br>
 
 ## 📊 Estatísticas do GitHub
 
