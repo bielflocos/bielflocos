@@ -17,6 +17,8 @@
 
 Sou participante do programa **Jornada para o Futuro**, cursando **Desenvolvimento Web e Cibersegurança**. Através da minha empresa, a **heisuscode**, busco desenvolver sistemas inteligentes e soluções práticas que impactam diretamente o dia a dia das pessoas e otimizam processos reais.
 
+🌍 **Próximos Passos:** Fui selecionado para um intercâmbio na Inglaterra no mês de julho, onde expandirei meus estudos e visão global com vivência acadêmica prevista em instituições de prestígio como a Universidade de Cambridge ou Oxford.
+
 **Meu Objetivo:** Busco minha primeira oportunidade na área de tecnologia como jovem aprendiz ou estagiário, com foco em desenvolvimento de sistemas, engenharia de prompts e evolução prática constante.
 
 <br>
@@ -48,9 +50,16 @@ Sou participante do programa **Jornada para o Futuro**, cursando **Desenvolvimen
 
 ## 💼 Experiências
 
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+Na visão geral abaixo você encontrará minha trajetória mais recente:
 
 <br>
+
+[<img align="left" height="94px" alt="Inglaterra" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1e7.png"/>](#)
+**Intercâmbio Internacional** <br>
+[**Universidade de Cambridge ou Oxford**](#) • Previsto para Julho <br>
+Foco: `Imersão Acadêmica`, `Visão Global`, `Inglês`, `Tecnologia`<br>
+Local: [Inglaterra]()
+<br><br><br>
 
 [<img align="left" height="94px" alt="DIO" src="DIO.png"/>](https://www.dio.me/)
 **Bootcamp** <br>
