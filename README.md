@@ -13,7 +13,7 @@
 
 <br>
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About me
 
 Sou participante do programa **Jornada para o Futuro**, cursando **Desenvolvimento Web e Cibersegurança**. Através da minha empresa, a **heisuscode**, busco desenvolver sistemas inteligentes e soluções práticas que impactam diretamente o dia a dia das pessoas e otimizam processos reais.
 
