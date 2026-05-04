@@ -71,7 +71,7 @@ Foco: `Imersão Acadêmica`, `Visão Global`, `Inglês`, `Tecnologia`<br>
 Local: [Inglaterra]()
 <br><br><br>
 
-[<img align="left" height="94px" alt="Escola do Futuro" src="EscolaDoFuturo.png"/>](#)
+[<img align="left" height="94px" alt="Escola do Futuro" src="efg.png"/>](#)
 **Técnico em Desenvolvimento Web e Cibersegurança** <br>
 [**Escola do Futuro de Goiás**](#) • Cursando <br>
 Linguagens & Tecnologias: `Desenvolvimento Web`, `Cibersegurança`, `Lógica de Programação`<br>
@@ -85,7 +85,7 @@ Linguagens & Tecnologias: `TypeScript`, `Node.js`, `JavaScript`, `Inteligência 
 Projetos em destaque: [Bootcamp]()
 <br><br><br>
 
-[<img align="left" height="94px" alt="Escola do Futuro" src="EscolaDoFuturo.png"/>](#)
+[<img align="left" height="94px" alt="Escola do Futuro" src="efg.png"/>](#)
 **Marketing e Mídias Digitais** <br>
 [**Escola do Futuro de Goiás**](#) • 2024 <br>
 Foco: `Marketing Digital`, `Comunicação Visual`, `Estratégia de Mídia`<br>
