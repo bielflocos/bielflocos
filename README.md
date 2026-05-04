@@ -58,6 +58,7 @@ Linguagens & Tecnologias: `TypeScript`, `Node.js`, `JavaScript`, `Inteligência 
 Projetos em destaque: [Bootcamp]()
 <br><br><br>
 
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
 
 ## 📊 Estatísticas do GitHub
 
