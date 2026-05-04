@@ -5,7 +5,6 @@
     <strong>Estudante da Escola do Futuro de Goiás | Fundador da heisuscode</strong><br>
     <em>Construindo sistemas que resolvem problemas reais através da tecnologia.</em>
   </p>
-
 </div>
 
 <br>
@@ -72,11 +71,25 @@ Foco: `Imersão Acadêmica`, `Visão Global`, `Inglês`, `Tecnologia`<br>
 Local: [Inglaterra]()
 <br><br><br>
 
+[<img align="left" height="94px" alt="Escola do Futuro" src="EscolaDoFuturo.png"/>](#)
+**Técnico em Desenvolvimento Web e Cibersegurança** <br>
+[**Escola do Futuro de Goiás**](#) • Cursando <br>
+Linguagens & Tecnologias: `Desenvolvimento Web`, `Cibersegurança`, `Lógica de Programação`<br>
+Projetos em destaque: [Jornada para o Futuro]()
+<br><br><br>
+
 [<img align="left" height="94px" alt="DIO" src="DIO.png"/>](https://www.dio.me/)
 **Bootcamp** <br>
 [**DIO**](https://www.dio.me/) • Formação <br>
 Linguagens & Tecnologias: `TypeScript`, `Node.js`, `JavaScript`, `Inteligência Artificial`<br>
 Projetos em destaque: [Bootcamp]()
+<br><br><br>
+
+[<img align="left" height="94px" alt="Escola do Futuro" src="EscolaDoFuturo.png"/>](#)
+**Marketing e Mídias Digitais** <br>
+[**Escola do Futuro de Goiás**](#) • 2024 <br>
+Foco: `Marketing Digital`, `Comunicação Visual`, `Estratégia de Mídia`<br>
+Projetos em destaque: [Formação Concluída]()
 <br><br><br>
 
 ### 📊 GitHub Statistics
