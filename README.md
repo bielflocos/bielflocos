@@ -51,14 +51,13 @@ Sou participante do programa **Jornada para o Futuro**, cursando **Desenvolvimen
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 <br>
-
+[<img align="left" height="94px" width="94px" alt="DIO" src="DIO.png"/>](https://www.dio.me/)
 **Bootcamp** <br>
 [**DIO**](https://www.dio.me/) • Formação <br>
 Linguagens & Tecnologias: `TypeScript`, `Node.js`, `JavaScript`, `Inteligência Artificial`<br>
 Projetos em destaque: [Bootcamp]()
 <br><br><br>
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
 
 ## 📊 Estatísticas do GitHub
 
