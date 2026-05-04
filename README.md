@@ -8,9 +8,9 @@
 
   <p>
     <a href="#-sobre-mim">🏠 Sobre</a> •
-    <a href="#-tecnologias-e-ferramentas">⚙️ Tecnologias</a> •
+    <a href="#my-stack">⚙️ Tecnologias</a> •
     <a href="#-projetos-em-destaque">📂 Projetos</a> •
-    <a href="#-vamos-conversar">✉️ Contato</a>
+    <a href="#contact-me">✉️ Contato</a>
   </p>
 
   <br>
@@ -28,15 +28,11 @@ Sou participante do programa **Jornada para o Futuro**, cursando **Desenvolvimen
 
 <br>
 
-## 🛠️ Tecnologias e Ferramentas
+## 🔗 My Stack
 
-<br>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,html,css,js,sqlite,azure,git,github&perline=5" alt="Tecnologias que utilizo" />
-  </a>
-</div>
-<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,cs,angular,ts,nodejs,react,next,tailwind,aws,git,github,postgres&perline=15" alt="My Stack" />
+</a>
 
 <br>
 
@@ -97,18 +93,19 @@ Sou participante do programa **Jornada para o Futuro**, cursando **Desenvolvimen
 
 <br>
 
-## ✉️ Vamos conversar?
+## Contact Me
 
-<div align="center">
-  <p>Seja para oportunidades de estágio, networking ou para falar sobre a <strong>heisuscode</strong>, entre em contato:</p>
-  <br>
-  <a href="mailto:gabrielfolks.x@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://wa.me/5561995686131">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://www.linkedin.com/in/gabrielἰησοῦς/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+<br>
+
+<a href="mailto:gabrielfolks.x@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/gabrielἰησοῦς/">
+  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://youtube.com/">
+  <img src="https://img.shields.io/badge/YOUTUBE-000000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
+
+<br><br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Linha colorida" width="100%" />
