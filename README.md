@@ -27,7 +27,7 @@ Sou participante do programa **Jornada para o Futuro**, cursando **Desenvolvimen
 
 <br>
 
-## 🚀 Projetos em destaque
+## 🚀 projects developed
 
 <table width="100%">
   <tr>
