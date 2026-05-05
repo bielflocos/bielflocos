@@ -82,7 +82,7 @@ Projetos em destaque: [Projeto Setninela]()
 **Bootcamp** <br>
 [**DIO**](https://www.dio.me/) • Formação <br>
 Linguagens & Tecnologias: `TypeScript`, `Node.js`, `JavaScript`, `Inteligência Artificial`<br>
-Projetos em destaque: [Bootcamp]()
+Projetos em destaque: [Champions League API]()
 <br><br><br>
 
 [<img align="left" height="94px" alt="Escola do Futuro" src="efg.png"/>](#)
