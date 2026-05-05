@@ -101,3 +101,5 @@ Projetos em destaque: [Formação Concluída]()
 
 <br><br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Linha colorida" width="100%" />
+.
+
