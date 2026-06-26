@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About
 
-Olá! Meu nome é Gabriel de Jesus Santos. Sou participante do programa **Jornada para o Futuro**, cursando Desenvolvimento Web e Cibersegurança, e fundador da **heisuscode**. Em julho, realizarei um intercâmbio acadêmico na Inglaterra Brighton e atualmente busco minha primeira oportunidade na área de tecnologia.
+Olá! Meu nome é Gabriel de Jesus Santos. Sou participante do programa **Jornada para o Futuro**, cursando Desenvolvimento Web e Cibersegurança, e fundador da **heisuscode**. Em julho, realizarei um intercâmbio acadêmico na Inglaterra University Sussex e atualmente busco minha primeira oportunidade na área de tecnologia.
 
 <br>
 
