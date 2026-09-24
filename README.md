@@ -18,21 +18,25 @@ Olá! Meu nome é Gabriel de Jesus Santos. Sou participante do programa **Jornad
 <br>
 
 ### 📚 Studying
+
 <img src="https://img.shields.io/badge/Cibersegurança-151515?style=for-the-badge" alt="Cibersegurança" /> <img src="https://img.shields.io/badge/Engenharia_de_Prompts-151515?style=for-the-badge" alt="Engenharia de Prompts" /> <img src="https://img.shields.io/badge/Inteligência_Artificial-151515?style=for-the-badge" alt="IA" />
 
 <br>
 
 ### 💻 Main skills
+
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,next,tailwind" alt="Skills" />
 
 <br>
 
 ### 🛠️ Tools
+
 <img src="https://skillicons.dev/icons?i=vscode,git,github,obsidian,sqlite,raspberrypi,linux,azure,aws,ps,npm" alt="Tools" />
 
 <br>
 
 ### ✉️ Contact me
+
 <a href="mailto:gabrielfolks.x@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://www.linkedin.com/in/gabrielἰησοῦς/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://wa.me/5561995686131"><img src="https://img.shields.io/badge/WHATSAPP-000000?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 
 <br clear="all"/>
@@ -68,29 +72,41 @@ Na visão geral abaixo você encontrará minha trajetória mais recente:
 **Intercâmbio Internacional** <br>
 [**University of Sussex Brighton**](#)  <br>
 Foco: `Imersão Acadêmica`, `Visão Global`, `Inglês`, `Tecnologia`<br>
-Local: [Inglaterra]()
-<br><br><br>
+Local: [Inglaterra]() <br><br><br>
 
 [<img align="left" height="94px" alt="Escola do Futuro" src="efg.png"/>](#)
 **Técnico em Desenvolvimento Web e Cibersegurança** <br>
 [**Escola do Futuro de Goiás**](#) • Cursando <br>
 Linguagens & Tecnologias: `Desenvolvimento Web`, `Cibersegurança`, `Lógica de Programação`<br>
-Projetos em destaque: [Projeto Setninela]()
-<br><br><br>
+Projetos em destaque: [Projeto Setninela]() <br><br><br>
 
 [<img align="left" height="94px" alt="DIO" src="DIO.png"/>](https://www.dio.me/)
 **Bootcamp** <br>
 [**DIO**](https://www.dio.me/) • Formação <br>
 Linguagens & Tecnologias: `TypeScript`, `Node.js`, `JavaScript`, `Inteligência Artificial`<br>
-Projetos em destaque: [Champions League API]()
-<br><br><br>
+Projetos em destaque: [Champions League API]() <br><br><br>
 
 [<img align="left" height="94px" alt="Escola do Futuro" src="efg.png"/>](#)
 **Marketing e Mídias Digitais** <br>
 [**Escola do Futuro de Goiás**](#) • 2024 <br>
 Foco: `Marketing Digital`, `Comunicação Visual`, `Estratégia de Mídia`<br>
-Projetos em destaque: [Formação Concluída]()
-<br><br><br>
+Projetos em destaque: [Formação Concluída]() <br><br><br>
+
+### 🏆 Certifications
+
+<div align="center">
+
+<a href="https://www.credly.com/earner/earned-badge/1bd5dc57-5e8c-49cb-8e26-5219c9c51302">
+  <img 
+    src="https://images.credly.com/size/680x680/images/1bd5dc57-5e8c-49cb-8e26-5219c9c51302/image.png" 
+    width="150" 
+    alt="Certificação Cisco"
+  />
+</a>
+
+</div>
+
+<br>
 
 ### 📊 GitHub Statistics
 
@@ -99,5 +115,4 @@ Projetos em destaque: [Formação Concluída]()
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielflocos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Linguagens mais usadas" />
 </div>
 
-<br><br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Linha colorida" width="100%" />
+<br><br> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Linha colorida" width="100%" />
